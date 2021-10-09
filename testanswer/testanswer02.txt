@@ -1,0 +1,41 @@
+===================Before sorting=======================
+18 elements in Container contains
+1: Type Figure: Rectangle (-50,50); (155,-180); Violet
+2: Type Figure: Rectangle (15,8); (25,3); Red
+3: Type Figure: Circle (-101,158); 52 ; Yellow
+4: Type Figure: Triangle (0,15);(15, 0); (0, 0); Red
+5: Type Figure: Rectangle (0,15); (8,0); Red
+6: Type Figure: Rectangle (-15,15); (15,18); Red
+7: Type Figure: Rectangle (-8,-10); (14,-22); Violet
+8: Type Figure: Triangle (-10,30);(80, -35); (-10, -35); Green
+9: Type Figure: Circle (12,12); 18 ; Yellow
+10: Type Figure: Triangle (0,4);(3, 0); (0, 0); Green
+11: Type Figure: Triangle (-5,-1);(0, -13); (-5, -13); Orange
+12: Type Figure: Triangle (1,1);(5, 1); (3, 4); Orange
+13: Type Figure: Triangle (0,0);(0, 4); (5, 0); Blue
+14: Type Figure: Triangle (0,1);(0, 3); (0, 4); Green
+15: Type Figure: Rectangle (-4,2); (5,-2); Violet
+16: Type Figure: Rectangle (0,0); (3,-3); Red
+17: Type Figure: Circle (-105,128); 18 ; Green
+18: Type Figure: Circle (-55,-45); 12 ; Yellow
+
+==================After sorting===========================
+18 elements in Container contains
+1: Type Figure: Rectangle (-50,50); (155,-180); Violet
+2: Type Figure: Circle (-101,158); 52 ; Yellow
+3: Type Figure: Triangle (-10,30);(80, -35); (-10, -35); Green
+4: Type Figure: Circle (12,12); 18 ; Yellow
+5: Type Figure: Circle (-105,128); 18 ; Green
+6: Type Figure: Circle (-55,-45); 12 ; Yellow
+7: Type Figure: Rectangle (0,15); (8,0); Red
+8: Type Figure: Triangle (0,15);(15, 0); (0, 0); Red
+9: Type Figure: Rectangle (-8,-10); (14,-22); Violet
+10: Type Figure: Triangle (-5,-1);(0, -13); (-5, -13); Orange
+11: Type Figure: Rectangle (15,8); (25,3); Red
+12: Type Figure: Rectangle (-4,2); (5,-2); Violet
+13: Type Figure: Triangle (0,0);(0, 4); (5, 0); Blue
+14: Type Figure: Rectangle (-15,15); (15,18); Red
+15: Type Figure: Triangle (0,4);(3, 0); (0, 0); Green
+16: Type Figure: Rectangle (0,0); (3,-3); Red
+17: Type Figure: Triangle (1,1);(5, 1); (3, 4); Orange
+18: Type Figure: Triangle (0,1);(0, 3); (0, 4); Green
